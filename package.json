@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-tester",
+  "version": "1.0.0",
+  "author": {
+    "name": "Camille Louédoc-Eyries",
+    "url": "https://github.com/clouedoc"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "jest": "^26.6.3",
+    "puppeteer": "^9.0.0",
+    "ts-jest": "^26.5.5",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "eslint": "^7.25.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
