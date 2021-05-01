@@ -23,7 +23,7 @@ yarn test
 
 ## Test output
 
-![https://i.ibb.co/qj07cbG/image.png]
+![tests pass!](https://i.ibb.co/qj07cbG/image.png)
 
 All good for `puppeteer@^9.0.0` :tada:
 
